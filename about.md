@@ -1,15 +1,27 @@
 ---
 layout: page
-title: About
+title: Qui sommes nous ?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## L'association
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+* Présidente : Natacha Borowski (SF Nantes-malakoff)
+* Secrétaires titulaire : Gwénola Sauvage (SF Nantes-malakoff)
+* Secrétaire adjointe : Carole Dubail (SF Le Pellerin)
+* Trésorière :Stéphanie Pétard (SF Frossay)
+* Autres membres du CA :
+    * Soizic Guérin Cauet - Présidente usagers bien naître
+    * Aude Chrétien - SF carquefou
+    * Bernadette Edom Seigné - SF Le Pellerin
+    * Nathalie Santi-Candero - SF Nantes-Egalité
+    * Virginie Le Bot - SF remplaçante sur le 44
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+# Les 5 sages-femmes qui feront du suivi global en binôme
+
+* Natacha Borowski (SF Nantes-malakoff)
+* Gwenola Sauvage (SF Nantes – malakoff)
+* Carole Dubail (SF Le Pellerin)
+* Stéphanie Pétard (SF Frossay)
+* Virginie Le Bot (SF 44)
