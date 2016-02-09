@@ -91,7 +91,7 @@ CHU.
 Le projet n’est pas enterré et l’association MdN Nantes continue de travailler dessus, en relation
 avec le collectif MDN.
 
-## Au niveau national
+## Au niveau national
 
 * L'appel à projet s'est cloturé le 15 septembre 2015.
 * 11 projets ont postulé :
@@ -111,7 +111,7 @@ avec le collectif MDN.
 * Les projets retenus le découvriront en décembre 2015.
 * L'ouverture des Maisons de Naissance expérimentales retenues pourra démarrer début 2016.
 
-## La suite à Nantes
+## La suite à Nantes
 
 * Début 2016 : reparler du projet plateau technique
 * Discuter de la possibilité d'entrer dans l'expérimentation Maisons de Naissance à mi-parcours (2018 ?)
