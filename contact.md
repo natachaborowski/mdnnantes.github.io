@@ -4,14 +4,14 @@ title: Contact
 permalink: /contact/
 ---
 
-## Facebook
+## Facebook
 
 [MDN Nantes sur Facebook](https://www.facebook.com/profile.php?id=100009228827552&fref=ts)
 
-## Mail
+## Mail
 
 [mdnnantes@gmail.com](mailto:mdnnantes@gmail.com)
 
-## Adhérer
+## Adhérer
 
 TODO : formulaire à télécharger
