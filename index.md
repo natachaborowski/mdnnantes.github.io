@@ -13,3 +13,8 @@ En France 11 structures ont déposé un dossier de candidature, les projets rete
 L'association MDN Nantes travaille pour faire aboutir un projet de Maison de Naissance sur Nantes et notamment au CHU de Nantes, mais la réalité actuelle montre qu'il serait trop prématuré d'entrer dans l'expérimentation (avoir l'adhésion de toutes les équipes médicales est long, il y a aussi d'autres priorités internes et le manque de locaux disponibles compliquent un peu les choses).
 
 Mais le projet n’est pas enterré et l’association MDN Nantes continue de travailler dessus, en relation avec le collectif national MDN, et vous pouvez nous aider ou nous soutenir en adhérant.
+
+Pour en savoir plus :
+
+* [Qu'est-ce qu'une Maison de Naissance ?]({% post_url 2016-02-09-maison-de-naissance %})
+* [Historique à l'étranger, en France et à Nantes]({% post_url 2016-02-09-historique %})
