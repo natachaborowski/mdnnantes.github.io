@@ -63,8 +63,6 @@ périnée.
 
 ### Le cadre législatif, régit principalement par le cahier des charges de l'HAS de septembre 2014
 
-TODO :  lien PDF cahier des charges
-
 Les patientes doivent s'inscrire à la MDN avant 28 SA (semaines d'aménorrhées), soit 26 semaines
 de grossesse.
 
@@ -80,3 +78,5 @@ une prise en charge rapide pour le bien-être du couple et de l'enfant.
 Après 2 ans de fonctionnement, une évaluation est réalisée par l'ARS (Agence Régionale de Santé),
 qui permettra ou non la poursuite de l'activité de la Maison de Naissance jusqu'à la fin de
 l'expérimentation des 5 ans.
+
+[Téléchargez le cahier des charges de l'HAS](/assets/documents/cahier charges HAS sept 2014.pdf)

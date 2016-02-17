@@ -25,11 +25,19 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+          {% if site.facebook_page %}
+          <li>
+            <a href="{{site.facebook_page}}">Notre page Facebook</a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
+          <!--
         <p>{{ site.description }}</p>
+    -->
       </div>
     </div>
 

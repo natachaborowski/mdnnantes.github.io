@@ -25,9 +25,9 @@ d'extractions instrumentales, césariennes, anesthésies péridurales et génér
 augmentation de la morbidité (des pathologies) maternelle ou néonatale (The Birthplace in England
 national prospective cohort study BMJ 2011 étudiant 64538 femmes éligibles).
 
---> lien PDF vers l'étude
+[Téléchargez l'étude anglaise de 2011](/assets/documents/bmj 2011 birthplace in england.pdf)
 
-Birthplace in England Collaborative Group. Perinatal and maternal outcomes by planned place of birth for
+> Birthplace in England Collaborative Group. Perinatal and maternal outcomes by planned place of birth for
 healthy women with low risk pregnancies: the Birthplace in England national prospective cohort study. BMJ.
 2011 Nov 23;343:d7400. doi: 10.1136/bmj.d7400. PubMed PMID: 22117057; PubMed Central PMCID:
 PMC3223531.
@@ -37,7 +37,6 @@ naissance sera enfin possible début 2016 grâce à la loi du 6 décembre 2013. 
 le cahier des charges de l'HAS (Haute Autorité de Santé), fixant le cadre pratique de telles
 structures est publié (cf définition d'une MdN).
 
---> lien PDF vers la loi + décrets
 
 ## 03 février 2015 - Création de l'association « MDN Nantes – Maison de Naissance à Nantes »
 
