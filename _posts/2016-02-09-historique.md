@@ -94,21 +94,19 @@ avec le collectif MDN.
 ## Au niveau national
 
 * L'appel à projet s'est cloturé le 15 septembre 2015.
-* 11 projets ont postulé :
-    1. Grenoble : 2 projets (1 hospitaliers et 1 libéral : MAIA)
-    2. Castres (toulouse/carcassonne) : DOUMAIA
+* 11 projets ont postulé et 9 sont retenus :
+    1. Grenoble : La Maison
+    2. Castres (Toulouse/Carcassonne) : DOUMAIA
     3. Paris : CALM (Comme à la maison)
     4. Nancy : Un nid pour naître
-    5. Guadeloupe : Le Temps de Naître
-    6. Sélestat (alsace) : MANALA (Maison de naissance alsace)
-    7. La Réunion : MANAO
+    5. Guadeloupe (Baie-Mahault) : Le Temps de Naître
+    6. Sélestat (Alsace) : MANALA (Maison de Naissance Alsace)
+    7. La Réunion (Saint-Paul) : Joie de naître
     8. Bourgoin-Jallieu (Lyon) : PHAM (Premières Heures Au Monde)
-    9. Vitry Sur seine (94 - Paris Sud)
-    10. Ganges (Montpellier)
+    9. Vitry Sur seine (94 - Paris Sud) : Premier cri
 
-![Carte](/assets/historique-carte.png)
+![Carte](/assets/images/historique-carte.png)
 
-* Les projets retenus le découvriront en décembre 2015.
 * L'ouverture des Maisons de Naissance expérimentales retenues pourra démarrer début 2016.
 
 ## La suite à Nantes

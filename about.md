@@ -14,8 +14,7 @@ permalink: /about/
     * Soizic Guérin Cauet - Présidente usagers bien naître
     * Aude Chrétien - SF carquefou
     * Bernadette Edom Seigné - SF Le Pellerin
-    * Nathalie Santi-Candero - SF Nantes-Egalité
-    * Virginie Le Bot - SF remplaçante sur le 44
+    * Nathalie Santi-Candero - SF Nantes-Zola
 
 
 # Les 5 sages-femmes qui feront du suivi global en binôme
